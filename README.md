@@ -42,7 +42,7 @@
 🛠️ Tools used: Python\
 🔗 Documentation/Demo: https://youtu.be/HRV9NoqrwRo , https://drive.google.com/file/d/1_MxrSY1BQYMGk7JIqHEV1jkrWZXlaj-7/view?usp=sharing
 
-## 🐴 Contract Robotic Process Automation (Nov 2024)
+## 🐴 Contract Robotic Process Automation (Aug 2023 - Present)
 **Developed a robotic process automation solution that extracts key information from ever-changing contract forms. Continuously updated for over 2 years, part of software engineering internship.**\
 🛠️ Tools used: Pega Robot Studio, Microsoft Power Automate, Java\
 🔗 Documentation/Demo: https://youtu.be/RAcCAzUyjoM
