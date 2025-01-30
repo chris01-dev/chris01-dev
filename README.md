@@ -78,7 +78,7 @@ Tools used: Unity, C++\
 🔗 Documentation/Demo: [Contains Personal Information]
 
 ## 🚗 Used Vehicle Database Analysis (Apr 2023)
-**Created a user-friendly and informative platform for consumers looking to purchase pre-owned automobiles, part of database college course.**\
+**Collaborated with a team in creating a user-friendly and informative platform for consumers looking to purchase pre-owned automobiles, part of database college course.**\
 🛠️ Tools used: Python, SQL, PHP\
 🔗 Documentation/Demo: https://www.youtube.com/watch?v=R_fg3yFY--g
 
@@ -98,7 +98,7 @@ Tools used: Unity, C++\
 🔗 Documentation/Demo: https://drive.google.com/file/d/1GnT0AKrabO5sd4fhr7AKTYdc-a508Chf/view?usp=sharing
 
 ## 📱 "Buy Now Pay Later - Too Good to be True?" Macroeconomic Research Paper (Dec 2024)
-**Collaborated in the creation of extensive documentation about the current consumer debt issue caused by BNPL platforms and possible policy solutions to mitigate/fix the issue, part of macroeconomics college course.**\
+**Extensive documentation about the current consumer debt issue caused by BNPL platforms and possible policy solutions to mitigate/fix the issue, part of macroeconomics college course.**\
 🔗 Documentation/Demo: https://drive.google.com/file/d/11ZKN3uir2YoReVgFullvP2LFsBsIEowK/view?usp=sharing
 
 ## 📈 Investing Thesis Log (Feb 2024)
