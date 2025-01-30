@@ -44,7 +44,7 @@
 
 ## 🐴 Contract Robotic Process Automation (Aug 2023 - Present)
 **Developed a robotic process automation solution that extracts key information from ever-changing contract forms. Continuously updated for over 2 years, part of software engineering internship.**\
-🛠️ Tools used: Pega Robot Studio, Microsoft Power Automate, Java\
+🛠️ Tools used: Pega Robot Studio, Microsoft Power Automate, Java, Azure, Apache Spark\
 🔗 Documentation/Demo: https://youtu.be/RAcCAzUyjoM
 
 ## 🤑 Greedy Heuristic Algorithm (Oct 2024)
