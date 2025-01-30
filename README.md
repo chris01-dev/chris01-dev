@@ -79,7 +79,7 @@ Tools used: Unity, C++\
 
 ## 🚗 Used Vehicle Database Analysis (Apr 2023)
 **Created a user-friendly and informative platform for consumers looking to purchase pre-owned automobiles, part of database college course.**\
-🛠️ Tools used: Pyhton, SQL, php\
+🛠️ Tools used: Pyhton, SQL, PHP\
 🔗 Documentation/Demo: https://www.youtube.com/watch?v=R_fg3yFY--g
 
 ## 😎 Chaos Theory Lorenz Attractor (Mar 2023)
