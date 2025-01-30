@@ -3,8 +3,12 @@
   <img src="https://i.imgur.com/Svfau9M.gif" alt="Welcome to my Page!" width="600">
 </h1>
 
+<div align="center">
 
-<div align="center">I'm Chris, a full-time software engineer, part-time game developer, and staring at numbers expert. I also dibble dabble in financial stuff in my freetime.</div>
+  **I'm Chris, a full-time software engineer, part-time game developer, and staring at numbers expert.**  
+  _I also dibble dabble in financial stuff in my free time._
+
+</div>
 
 <h1 align="center">
   <img src="https://i.imgur.com/l8yfgHq.png" alt="Mini Byte Studio LLC Logo" width="200">
@@ -12,7 +16,11 @@
   Please check out my website! => https://minibytestudio.com/
 </h1>
 
+---
+
 # <div align="center">Programming Projects 💻</div>
+
+---
 
 ## ⚔️ Unnamed Roguelike RPG Game (In-Progress)
 **Top-down 2d pixel art video game developed in GameMaker, inspired from various games within the genre. Founded Mini Byte LLC and created company website.**\
@@ -79,7 +87,11 @@ Tools used: Unity, C++\
 🛠️ Tools used: Python\
 🔗 Documentation/Demo: [Located on LinkedIn]
 
+---
+
 # <div align="center">Finance Projects 💻</div>
+
+---
 
 ## 🌏 "Geoengineering the Future" Economic Research Paper (Dec 2024)
 **Extensive research documentation investigating the potential use-case for geoengineering and the economic and environmental viability as climate change mitigation strategies, part of environmental economics college course.**\
