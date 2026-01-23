@@ -13,7 +13,7 @@
 <h1 align="center">
   <img src="https://i.imgur.com/l8yfgHq.png" alt="Mini Byte Studio LLC Logo" width="200">
 
-  Please check out my website! => https://minibytestudio.com/
+
 </h1>
 
 ---
