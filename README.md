@@ -32,10 +32,9 @@
 🛠️ Tools used: Python, PyTorch, Huggingface Transformers, FastAPI, Three.js, PyWebView, PyInstaller\
 🔗 Documentation/Demo: https://github.com/chris01-dev/LCT-Neuron-Explorer-V5
 
-## ⚔️ Unnamed Roguelike RPG Game (In-Progress)
+## ⚔️ Unnamed Roguelike RPG Game (Shelved)
 **Top-down 2d pixel art video game developed in GameMaker, inspired from various games within the genre. Founded Mini Byte LLC and created company website.**\
-🛠️ Tools used: GameMaker/GML, Aesprite, Audacity\
-🔗 Documentation/Demo: https://minibytestudio.com/Games/
+🛠️ Tools used: GameMaker/GML, Aesprite, Audacity
 
 ## 📝 PDF Query LLM (Jan 2025)
 **PDF text extraction and querying using LangChain and OpenAI embeddings.**\
