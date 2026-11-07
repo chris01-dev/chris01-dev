@@ -23,8 +23,8 @@
 ---
 
 ## 🦅 Project Kestrel (In-Progress)
-**Real-time research system that decodes internal physiological states from a single low-cost biosignal channel. Custom wireless sensor firmware, multi-device time synchronisation, and causal deep-learning models with confound-controlled evaluation.**\
-🛠️ Tools used: Python, PyTorch, C++ (ESP32), Bluetooth LE, PySide6, NumPy/SciPy\
+**Research project combining custom hardware and machine learning.**\
+🛠️ Tools used: Python, PyTorch, C++\
 🔗 Documentation/Demo: [Contains Confidential Information]
 
 ## 🧠 LCT Neuron Explorer (Oct 2026)
