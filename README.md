@@ -22,6 +22,11 @@
 
 ---
 
+## 🦅 Project Kestrel (In-Progress)
+**Real-time research system that decodes internal physiological states from a single low-cost biosignal channel. Custom wireless sensor firmware, multi-device time synchronisation, and causal deep-learning models with confound-controlled evaluation.**\
+🛠️ Tools used: Python, PyTorch, C++ (ESP32), Bluetooth LE, PySide6, NumPy/SciPy\
+🔗 Documentation/Demo: [Contains Confidential Information]
+
 ## 🧠 LCT Neuron Explorer (Oct 2026)
 **Local research tool that turns natural language into neuron activations: steer Qwen3.5-4B through individual neurons and compare steered, neutral, and inverted replies side by side. A built-in steering brain (Gemma-4 12B) turns plain-language wishes into measured, verified neuron recipes, shown live on a 3D map of the model.**\
 🛠️ Tools used: Python, PyTorch, Huggingface Transformers, FastAPI, Three.js, PyWebView, PyInstaller\
