@@ -22,7 +22,7 @@
 
 ---
 
-## 🦅 Project Kestrel (In-Progress)
+## 🦅 Project Kestrel (In-Progress) (Start Oct 2026)
 **Research project combining custom hardware and machine learning.**\
 🛠️ Tools used: Python, PyTorch, C++\
 🔗 Documentation/Demo: [Contains Confidential Information]
