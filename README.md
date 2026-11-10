@@ -22,6 +22,11 @@
 
 ---
 
+## 🖱️ Untitled Clicker Game (In-Progress) (Start Nov 2026)
+**Windows 98-styled 2d pixel art incremental game developed in Godot. Click icon.exe to earn Compute, then unlock programs that open as draggable windows on a pannable, zoomable desktop: processes.exe wires up to 200 auto-clicker cores to a CPU, and icebreaker.exe is a brick-breaker that plays itself and gets smarter with upgrades. Includes a big-number economy, a pacing simulator for balancing, and a placeholder sprite generator.**\
+🛠️ Tools used: Godot, GDScript, Python\
+🔗 Documentation/Demo: [Private Repository]
+
 ## 🦅 Project Kestrel (In-Progress) (Start Oct 2026)
 **Research project combining custom hardware and machine learning.**\
 🛠️ Tools used: Python, PyTorch, C++\
