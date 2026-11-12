@@ -22,10 +22,10 @@
 
 ---
 
-## 🖱️ Untitled Clicker Game (In-Progress) (Start Nov 2026)
-**Windows 98-styled 2d pixel art incremental game developed in Godot. Click icon.exe to earn Compute, then unlock programs that open as draggable windows on a pannable, zoomable desktop: processes.exe wires up to 200 auto-clicker cores to a CPU, and icebreaker.exe is a brick-breaker that plays itself and gets smarter with upgrades. Includes a big-number economy, a pacing simulator for balancing, and a placeholder sprite generator.**\
+## 🖱️ Untitled Idle Clicker (Alpha 0.1.0) (Start Nov 2026)
+**Windows 98-styled 2D pixel art idle game developed in Godot. Click icon.exe to earn Compute, and every big upgrade installs a new program on the desktop that's a game of its own: a brick breaker, a text adventure run by a small AI on your own PC, a dungeon crawler, a coin pusher, and a few more I'd rather you find yourself. Reboot when a run slows down to unlock a big tree of permanent skills.**\
 🛠️ Tools used: Godot, GDScript, Python\
-🔗 Documentation/Demo: [Private Repository]
+🔗 Documentation/Demo: https://github.com/chris01-dev/Untitled-Idle-Clicker
 
 ## 🦅 Project Kestrel (In-Progress) (Start Oct 2026)
 **Research project combining custom hardware and machine learning.**\
